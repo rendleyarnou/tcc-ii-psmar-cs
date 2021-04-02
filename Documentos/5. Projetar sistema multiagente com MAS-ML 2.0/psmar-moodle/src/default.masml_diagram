@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:masml="masml" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmi:id="_9ixgUG1AEeurwtQsqNQwYw" type="Masml" name="default.masml_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_-w4SMG1AEeurwtQsqNQwYw" type="2004" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-w5gUG1AEeurwtQsqNQwYw" type="5004"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_-w5gUW1AEeurwtQsqNQwYw" type="7013">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_-w5gUm1AEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_-w5gU21AEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_-w5gVG1AEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_-w5gVW1AEeurwtQsqNQwYw" type="7014">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_-w5gVm1AEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_-w5gV21AEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_-w5gWG1AEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_-w5gWW1AEeurwtQsqNQwYw" type="7015">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_-w5gWm1AEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_-w5gW21AEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_-w5gXG1AEeurwtQsqNQwYw"/>
+    </children>
+    <element xmi:type="masml:EnvironmentClass" href="default.masml#//@ownedEnvironmentClass.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-w4SMW1AEeurwtQsqNQwYw" x="40" y="35" width="1144" height="1082"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_BT8E0G1BEeurwtQsqNQwYw" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_BT8r4G1BEeurwtQsqNQwYw" type="5002"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_BT8r4W1BEeurwtQsqNQwYw" type="7003">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_BT8r4m1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_BT8r421BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_BT8r5G1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_BT8r5W1BEeurwtQsqNQwYw" type="7004">
+      <children xmi:type="notation:Node" xmi:id="_KCDrgG1BEeurwtQsqNQwYw" type="3004">
+        <element xmi:type="masml:Belief" href="default.masml#//@ownedAgentClass.0/@ownedBelief.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_KCESkG1BEeurwtQsqNQwYw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_BT8r5m1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_BT8r521BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_BT8r6G1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_BT8r6W1BEeurwtQsqNQwYw" type="7005">
+      <children xmi:type="notation:Node" xmi:id="_MEwjEG1BEeurwtQsqNQwYw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.0/@ownedPerception.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MEwjEW1BEeurwtQsqNQwYw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_MgT2oG1BEeurwtQsqNQwYw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.0/@ownedPerception.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MgT2oW1BEeurwtQsqNQwYw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_BT8r6m1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_BT8r621BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_BT8r7G1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_BT8r7W1BEeurwtQsqNQwYw" type="7006">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_BT8r7m1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_BT8r721BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_BT8r8G1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_BT8r8W1BEeurwtQsqNQwYw" type="7007">
+      <children xmi:type="notation:Node" xmi:id="_RuZsIG1BEeurwtQsqNQwYw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.0/@owendAction.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_RuZsIW1BEeurwtQsqNQwYw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Ry8N4G1BEeurwtQsqNQwYw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.0/@owendAction.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Ry8N4W1BEeurwtQsqNQwYw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_R3dhgG1BEeurwtQsqNQwYw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.0/@owendAction.2"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_R3dhgW1BEeurwtQsqNQwYw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_R7iJMG1BEeurwtQsqNQwYw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.0/@owendAction.3"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_R7iJMW1BEeurwtQsqNQwYw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_R_qbQG1BEeurwtQsqNQwYw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.0/@owendAction.4"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_R_qbQW1BEeurwtQsqNQwYw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_BT8r8m1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_BT8r821BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_BT8r9G1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_BT8r9W1BEeurwtQsqNQwYw" type="7008">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_BT8r9m1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_BT8r921BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_BT8r-G1BEeurwtQsqNQwYw"/>
+    </children>
+    <element xmi:type="masml:AgentClass" href="default.masml#//@ownedAgentClass.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BT8E0W1BEeurwtQsqNQwYw" x="520" y="130" width="303"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_pL4DMG1BEeurwtQsqNQwYw" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_pL4qQG1BEeurwtQsqNQwYw" type="5002"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_pL4qQW1BEeurwtQsqNQwYw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_ZxrwoG1CEeuYVPyDq5aTrw" type="3003">
+        <element xmi:type="masml:Goal" href="default.masml#//@ownedAgentClass.1/@ownedGoal.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ZxrwoW1CEeuYVPyDq5aTrw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_pL4qQm1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_pL4qQ21BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_pL4qRG1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_pL4qRW1BEeurwtQsqNQwYw" type="7004">
+      <children xmi:type="notation:Node" xmi:id="_jpuz0G1CEeuYVPyDq5aTrw" type="3004">
+        <element xmi:type="masml:Belief" href="default.masml#//@ownedAgentClass.1/@ownedBelief.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_jpuz0W1CEeuYVPyDq5aTrw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_pL4qRm1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_pL4qR21BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_pL4qSG1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_pL4qSW1BEeurwtQsqNQwYw" type="7005">
+      <children xmi:type="notation:Node" xmi:id="_lhKPgG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lhK2kG1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_nUcyEG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_nUcyEW1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_nxLKUG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.2"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_nxLKUW1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_oE4JcG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.3"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oE4JcW1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_oKd0EG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.4"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oKd0EW1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_oPWUEG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.5"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oPW7IG1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_oU_CAG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.6"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oU_CAW1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_oZkAAG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.7"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oZkAAW1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_oe_SkG1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.8"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_oe_SkW1CEeuYVPyDq5aTrw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_ojdi4G1CEeuYVPyDq5aTrw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.1/@ownedPerception.9"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ojdi4W1CEeuYVPyDq5aTrw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_pL4qSm1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_pL4qS21BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_pL4qTG1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_pL4qTW1BEeurwtQsqNQwYw" type="7006">
+      <children xmi:type="notation:Node" xmi:id="_IKmvwG1DEeuVTsF0xSDpXw" type="3006">
+        <element xmi:type="masml:Planning" href="default.masml#//@ownedAgentClass.1/@ownedPlanning.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_IKmvwW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_pL4qTm1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_pL4qT21BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_pL4qUG1BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_pL5RUG1BEeurwtQsqNQwYw" type="7007">
+      <children xmi:type="notation:Node" xmi:id="_Iy1NYG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Iy1NYW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_I9FVkG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_I9FVkW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_I_5ZAG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.2"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_I_5ZAW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_JNQfkG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.3"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JNQfkW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_JP3HoG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.4"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JP3HoW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_JSgL8G1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.5"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JSgL8W1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_JY35sG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.6"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JY35sW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_JcBUUG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.7"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JcBUUW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_JeyUcG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.8"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_JeyUcW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Jj76MG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.1/@owendAction.9"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Jj76MW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_pL5RUW1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_pL5RUm1BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_pL5RU21BEeurwtQsqNQwYw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_pL5RVG1BEeurwtQsqNQwYw" type="7008">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_pL5RVW1BEeurwtQsqNQwYw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_pL5RVm1BEeurwtQsqNQwYw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_pL5RV21BEeurwtQsqNQwYw"/>
+    </children>
+    <element xmi:type="masml:AgentClass" href="default.masml#//@ownedAgentClass.1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pL4DMW1BEeurwtQsqNQwYw" x="880" y="565" width="271"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_qo1egG1DEeuVTsF0xSDpXw" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_qo2FkG1DEeuVTsF0xSDpXw" type="5002"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qo2FkW1DEeuVTsF0xSDpXw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_ynIx0G1DEeuVTsF0xSDpXw" type="3003">
+        <element xmi:type="masml:Goal" href="default.masml#//@ownedAgentClass.2/@ownedGoal.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ynIx0W1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_6bDaEG1DEeuVTsF0xSDpXw" type="3003">
+        <element xmi:type="masml:Goal" href="default.masml#//@ownedAgentClass.2/@ownedGoal.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_6bDaEW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qo2Fkm1DEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qo2Fk21DEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qo2FlG1DEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qo2FlW1DEeuVTsF0xSDpXw" type="7004">
+      <children xmi:type="notation:Node" xmi:id="_zj24wG1DEeuVTsF0xSDpXw" type="3004">
+        <element xmi:type="masml:Belief" href="default.masml#//@ownedAgentClass.2/@ownedBelief.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_zj24wW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qo2Flm1DEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qo2Fl21DEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qo2FmG1DEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qo2FmW1DEeuVTsF0xSDpXw" type="7005">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qo2Fmm1DEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qo2Fm21DEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qo2FnG1DEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qo2soG1DEeuVTsF0xSDpXw" type="7006">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qo2soW1DEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qo2som1DEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qo2so21DEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qo2spG1DEeuVTsF0xSDpXw" type="7007">
+      <children xmi:type="notation:Node" xmi:id="_0q4yQG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.2/@owendAction.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_0q4yQW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_0wV6AG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.2/@owendAction.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_0wV6AW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_008tMG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.2/@owendAction.2"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_008tMW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_05MUAG1DEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.2/@owendAction.3"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_05MUAW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qo2spW1DEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qo2spm1DEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qo2sp21DEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_qo2sqG1DEeuVTsF0xSDpXw" type="7008">
+      <children xmi:type="notation:Node" xmi:id="_1dR4gG1DEeuVTsF0xSDpXw" type="3008">
+        <element xmi:type="masml:PlanClass" href="default.masml#//@ownedAgentClass.2/@ownedPlan.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1dR4gW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_1gwDQG1DEeuVTsF0xSDpXw" type="3008">
+        <element xmi:type="masml:PlanClass" href="default.masml#//@ownedAgentClass.2/@ownedPlan.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_1gwDQW1DEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_qo2sqW1DEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_qo2sqm1DEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_qo2sq21DEeuVTsF0xSDpXw"/>
+    </children>
+    <element xmi:type="masml:AgentClass" href="default.masml#//@ownedAgentClass.2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qo1egW1DEeuVTsF0xSDpXw" x="900" y="140" width="236" height="270"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_OOE4oG1EEeuVTsF0xSDpXw" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_OOFfsG1EEeuVTsF0xSDpXw" type="5002"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OOFfsW1EEeuVTsF0xSDpXw" type="7003">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OOFfsm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OOFfs21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OOFftG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OOFftW1EEeuVTsF0xSDpXw" type="7004">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OOFftm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OOFft21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OOFfuG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OOFfuW1EEeuVTsF0xSDpXw" type="7005">
+      <children xmi:type="notation:Node" xmi:id="_YhDkUG1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_YhDkUW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_agwLMG1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_agwLMW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_altjsG1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.2"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_altjsW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_arzkoG1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.3"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_arzkoW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_avEUAG1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.4"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_avEUAW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_ax0tEG1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.5"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ax0tEW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_a3GOoG1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.6"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_a3GOoW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_a6CN4G1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.7"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_a6CN4W1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_a8wKsG1EEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.3/@ownedPerception.8"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_a8wKsW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OOFfum1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OOFfu21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OOFfvG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OOFfvW1EEeuVTsF0xSDpXw" type="7006">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OOFfvm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OOFfv21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OOFfwG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OOFfwW1EEeuVTsF0xSDpXw" type="7007">
+      <children xmi:type="notation:Node" xmi:id="_csj7cG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_csj7cW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_cwupwG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_cwupwW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_cy_TkG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.2"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_cy_TkW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_c5tmoG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.3"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_c5tmoW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_c8ktYG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.4"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_c8ktYW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_c-62wG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.5"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_c-7d0G1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_dDJ2gG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.6"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_dDJ2gW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_dF7dsG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.7"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_dF7dsW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_dIMHgG1EEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.3/@owendAction.8"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_dIMHgW1EEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OOFfwm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OOFfw21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OOFfxG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_OOFfxW1EEeuVTsF0xSDpXw" type="7008">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_OOFfxm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_OOFfx21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_OOFfyG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <element xmi:type="masml:AgentClass" href="default.masml#//@ownedAgentClass.3"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OOE4oW1EEeuVTsF0xSDpXw" x="65" y="645" width="291" height="236"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QwbgoG1EEeuVTsF0xSDpXw" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QwcHsW1EEeuVTsF0xSDpXw" type="5002"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QwcHsm1EEeuVTsF0xSDpXw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_KrnpEG1FEeuVTsF0xSDpXw" type="3003">
+        <element xmi:type="masml:Goal" href="default.masml#//@ownedAgentClass.4/@ownedGoal.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_KrnpEW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_K6KbYG1FEeuVTsF0xSDpXw" type="3003">
+        <element xmi:type="masml:Goal" href="default.masml#//@ownedAgentClass.4/@ownedGoal.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_K6KbYW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_QwcHs21EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QwcHtG1EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QwcHtW1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QwcHtm1EEeuVTsF0xSDpXw" type="7004">
+      <children xmi:type="notation:Node" xmi:id="_LQ9KwG1FEeuVTsF0xSDpXw" type="3004">
+        <element xmi:type="masml:Belief" href="default.masml#//@ownedAgentClass.4/@ownedBelief.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LQ9KwW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_QwcHt21EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QwcHuG1EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QwcHuW1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QwcHum1EEeuVTsF0xSDpXw" type="7005">
+      <children xmi:type="notation:Node" xmi:id="_L7Yn0G1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_L7Yn0W1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_L-wr8G1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_L-wr8W1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_MD9VAG1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.2"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MD9VAW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_MOKZ4G1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.3"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MOKZ4W1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_MRtdIG1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.4"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MRtdIW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_MVXOEG1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.5"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MVXOEW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_McJykG1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.6"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_McJykW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_MfkS8G1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.7"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_MfkS8W1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_Mig5QG1FEeuVTsF0xSDpXw" type="3005">
+        <element xmi:type="masml:Perception" href="default.masml#//@ownedAgentClass.4/@ownedPerception.8"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Mig5QW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_QwcHu21EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QwcuwG1EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QwcuwW1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Qwcuwm1EEeuVTsF0xSDpXw" type="7006">
+      <children xmi:type="notation:Node" xmi:id="_NIq6UG1FEeuVTsF0xSDpXw" type="3006">
+        <element xmi:type="masml:Planning" href="default.masml#//@ownedAgentClass.4/@ownedPlanning.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NIq6UW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Qwcuw21EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QwcuxG1EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QwcuxW1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Qwcuxm1EEeuVTsF0xSDpXw" type="7007">
+      <children xmi:type="notation:Node" xmi:id="_NnrKgG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NnrKgW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_NrXXsG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NrXXsW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_NuWaQG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.2"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_NuWaQW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_N7llAG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.3"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_N7llAW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_N-H7oG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.4"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_N-H7oW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_OAlZwG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.5"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OAlZwW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_OLUDEG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.6"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OLUDEW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_OOi9QG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.7"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OOi9QW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_ORWZoG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.8"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ORWZoW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_OWjpwG1FEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.4/@owendAction.9"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OWjpwW1FEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Qwcux21EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QwcuyG1EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QwcuyW1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_Qwcuym1EEeuVTsF0xSDpXw" type="7008">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_Qwcuy21EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QwcuzG1EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QwcuzW1EEeuVTsF0xSDpXw"/>
+    </children>
+    <element xmi:type="masml:AgentClass" href="default.masml#//@ownedAgentClass.4"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QwcHsG1EEeuVTsF0xSDpXw" x="85" y="125" width="360" height="312"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_RinykG1EEeuVTsF0xSDpXw" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_RioZoG1EEeuVTsF0xSDpXw" type="5002"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RioZoW1EEeuVTsF0xSDpXw" type="7003">
+      <children xmi:type="notation:Node" xmi:id="_SNJrYG1GEeuVTsF0xSDpXw" type="3003">
+        <element xmi:type="masml:Goal" href="default.masml#//@ownedAgentClass.5/@ownedGoal.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_SNJrYW1GEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RioZom1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RioZo21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RioZpG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RioZpW1EEeuVTsF0xSDpXw" type="7004">
+      <children xmi:type="notation:Node" xmi:id="_SqyCkG1GEeuVTsF0xSDpXw" type="3004">
+        <element xmi:type="masml:Belief" href="default.masml#//@ownedAgentClass.5/@ownedBelief.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_SqyCkW1GEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RioZpm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RioZp21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RioZqG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RioZqW1EEeuVTsF0xSDpXw" type="7005">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RioZqm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RioZq21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RioZrG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RioZrW1EEeuVTsF0xSDpXw" type="7006">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RioZrm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RioZr21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RioZsG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RioZsW1EEeuVTsF0xSDpXw" type="7007">
+      <children xmi:type="notation:Node" xmi:id="_TNoQ8G1GEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.5/@owendAction.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_TNoQ8W1GEeuVTsF0xSDpXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_TRCxUG1GEeuVTsF0xSDpXw" type="3007">
+        <element xmi:type="masml:ActionClass" href="default.masml#//@ownedAgentClass.5/@owendAction.1"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_TRCxUW1GEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RioZsm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RioZs21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RioZtG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_RioZtW1EEeuVTsF0xSDpXw" type="7008">
+      <children xmi:type="notation:Node" xmi:id="_Td_BIG1GEeuVTsF0xSDpXw" type="3008">
+        <element xmi:type="masml:PlanClass" href="default.masml#//@ownedAgentClass.5/@ownedPlan.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_Td_BIW1GEeuVTsF0xSDpXw"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_RioZtm1EEeuVTsF0xSDpXw" showTitle="true"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_RioZt21EEeuVTsF0xSDpXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_RioZuG1EEeuVTsF0xSDpXw"/>
+    </children>
+    <element xmi:type="masml:AgentClass" href="default.masml#//@ownedAgentClass.5"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RinykW1EEeuVTsF0xSDpXw" x="455" y="665" width="376" height="250"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_9ixgUW1AEeurwtQsqNQwYw"/>
+  <element xmi:type="masml:MasmlClassDiagram" href="default.masml#/"/>
+</notation:Diagram>
