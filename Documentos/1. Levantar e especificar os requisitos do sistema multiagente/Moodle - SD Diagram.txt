@@ -1,0 +1,274 @@
+{
+  "actors": [
+    {
+      "id": "441e63d9-bb18-4923-8e86-4309e0a4f648",
+      "text": "FormadorAg",
+      "type": "istar.UtilityBasedAgent",
+      "x": 448,
+      "y": 215,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "1f02cf12-2898-46a4-9a5b-f63addbf85ca",
+      "text": "CompanheiroAg",
+      "type": "istar.ModelBasedReflexAgent",
+      "x": 646,
+      "y": 543,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "2c0bcce1-0712-4c3d-ab0d-758a04cca7fd",
+      "text": "MoodleEnv",
+      "type": "istar.Environment",
+      "x": 1147,
+      "y": 175,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "b956f553-c7b7-4f51-b1ae-6779469d3b5f",
+      "text": "MoodleOrg",
+      "type": "istar.Organisation",
+      "x": 1172,
+      "y": 333,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "d059c7e5-e814-4276-9dd7-50004328bf17",
+      "text": "AjudanteAg",
+      "type": "istar.SimpleReflexAgent",
+      "x": 465,
+      "y": 337,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "8215b0d6-5b30-455f-8cba-abb003a88915",
+      "text": "PedagogicoAg",
+      "type": "istar.GoalBasedAgent",
+      "x": 519,
+      "y": 455,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "4c8f217e-059f-4c31-b606-a7ce250356fd",
+      "text": "BuscadorAg",
+      "type": "istar.Agent",
+      "x": 446,
+      "y": 105,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "c93f9136-ea30-4041-8275-a0a8c3ba8e6a",
+      "text": "FormadorAgRole",
+      "type": "istar.UtilityBasedRole",
+      "x": 752,
+      "y": 217,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "951870e4-3420-4c77-9867-4889c1fba9c0",
+      "text": "CompanheiroAgRole",
+      "type": "istar.ModelBasedReflexRole",
+      "x": 1005,
+      "y": 534,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "ec76e977-229e-4270-8e62-0d5a4bca9ebb",
+      "text": "BuscadorAgRole",
+      "type": "istar.Role",
+      "x": 741,
+      "y": 105,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "1bf56f33-fcc8-417c-9742-e4f7380d5262",
+      "text": "PedagogicoAgRole",
+      "type": "istar.GoalBasedRole",
+      "x": 864,
+      "y": 448,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    },
+    {
+      "id": "5e77fb2e-a098-472e-9eec-e26711802950",
+      "text": "AjudanteAgRole",
+      "type": "istar.SimpleReflexRole",
+      "x": 780,
+      "y": 337,
+      "customProperties": {
+        "Description": ""
+      },
+      "nodes": []
+    }
+  ],
+  "orphans": [],
+  "dependencies": [
+    {
+      "id": "652b9b4b-3fcb-4b84-ac5f-d2648d0f63da",
+      "text": "Dependum",
+      "type": "istar.Resource",
+      "x": 940,
+      "y": 110,
+      "customProperties": {
+        "Description": ""
+      },
+      "source": "ec76e977-229e-4270-8e62-0d5a4bca9ebb",
+      "target": "2c0bcce1-0712-4c3d-ab0d-758a04cca7fd"
+    }
+  ],
+  "links": [
+    {
+      "id": "7aa8c48f-3a75-44b4-910e-cacc8721b292",
+      "type": "istar.DependencyLink",
+      "source": "ec76e977-229e-4270-8e62-0d5a4bca9ebb",
+      "target": "652b9b4b-3fcb-4b84-ac5f-d2648d0f63da"
+    },
+    {
+      "id": "cd9a1628-5ee4-4e79-96a6-1c3b15ed7cd8",
+      "type": "istar.DependencyLink",
+      "source": "652b9b4b-3fcb-4b84-ac5f-d2648d0f63da",
+      "target": "2c0bcce1-0712-4c3d-ab0d-758a04cca7fd"
+    },
+    {
+      "id": "6e357d76-2c8b-4306-b52e-587a116f077b",
+      "type": "istar.ParticipatesInLink",
+      "source": "1f02cf12-2898-46a4-9a5b-f63addbf85ca",
+      "target": "951870e4-3420-4c77-9867-4889c1fba9c0"
+    },
+    {
+      "id": "11dcc924-97a8-43d6-bc33-78602d74add8",
+      "type": "istar.ParticipatesInLink",
+      "source": "441e63d9-bb18-4923-8e86-4309e0a4f648",
+      "target": "c93f9136-ea30-4041-8275-a0a8c3ba8e6a"
+    },
+    {
+      "id": "64b41b03-314b-449d-83e1-7db876a839cf",
+      "type": "istar.ParticipatesInLink",
+      "source": "d059c7e5-e814-4276-9dd7-50004328bf17",
+      "target": "5e77fb2e-a098-472e-9eec-e26711802950"
+    },
+    {
+      "id": "cf86662d-7f92-494d-afd0-9ab5c9c46f4b",
+      "type": "istar.ParticipatesInLink",
+      "source": "8215b0d6-5b30-455f-8cba-abb003a88915",
+      "target": "1bf56f33-fcc8-417c-9742-e4f7380d5262"
+    },
+    {
+      "id": "9d3e47e3-62ec-4c49-a681-c43669c969de",
+      "type": "istar.ParticipatesInLink",
+      "source": "b956f553-c7b7-4f51-b1ae-6779469d3b5f",
+      "target": "2c0bcce1-0712-4c3d-ab0d-758a04cca7fd"
+    },
+    {
+      "id": "6440cd00-9920-4961-8888-74719d1c419e",
+      "type": "istar.ParticipatesInLink",
+      "source": "4c8f217e-059f-4c31-b606-a7ce250356fd",
+      "target": "ec76e977-229e-4270-8e62-0d5a4bca9ebb"
+    },
+    {
+      "id": "af03d0fa-bffc-4316-85af-f8fe11c9938b",
+      "type": "istar.ParticipatesInLink",
+      "source": "c93f9136-ea30-4041-8275-a0a8c3ba8e6a",
+      "target": "b956f553-c7b7-4f51-b1ae-6779469d3b5f"
+    },
+    {
+      "id": "c544b256-3771-4ec9-8035-98d740d32c5f",
+      "type": "istar.ParticipatesInLink",
+      "source": "5e77fb2e-a098-472e-9eec-e26711802950",
+      "target": "b956f553-c7b7-4f51-b1ae-6779469d3b5f"
+    },
+    {
+      "id": "8f644b24-00ab-42c4-a1d2-12adbb3a0605",
+      "type": "istar.ParticipatesInLink",
+      "source": "1bf56f33-fcc8-417c-9742-e4f7380d5262",
+      "target": "b956f553-c7b7-4f51-b1ae-6779469d3b5f"
+    },
+    {
+      "id": "e51da41e-82be-41f4-940f-4ac05b29507c",
+      "type": "istar.ParticipatesInLink",
+      "source": "951870e4-3420-4c77-9867-4889c1fba9c0",
+      "target": "b956f553-c7b7-4f51-b1ae-6779469d3b5f"
+    }
+  ],
+  "display": {
+    "441e63d9-bb18-4923-8e86-4309e0a4f648": {
+      "collapsed": true
+    },
+    "1f02cf12-2898-46a4-9a5b-f63addbf85ca": {
+      "collapsed": true
+    },
+    "2c0bcce1-0712-4c3d-ab0d-758a04cca7fd": {
+      "collapsed": true
+    },
+    "b956f553-c7b7-4f51-b1ae-6779469d3b5f": {
+      "collapsed": true
+    },
+    "d059c7e5-e814-4276-9dd7-50004328bf17": {
+      "collapsed": true
+    },
+    "8215b0d6-5b30-455f-8cba-abb003a88915": {
+      "collapsed": true
+    },
+    "4c8f217e-059f-4c31-b606-a7ce250356fd": {
+      "collapsed": true
+    },
+    "c93f9136-ea30-4041-8275-a0a8c3ba8e6a": {
+      "collapsed": true
+    },
+    "951870e4-3420-4c77-9867-4889c1fba9c0": {
+      "collapsed": true
+    },
+    "ec76e977-229e-4270-8e62-0d5a4bca9ebb": {
+      "collapsed": true
+    },
+    "1bf56f33-fcc8-417c-9742-e4f7380d5262": {
+      "collapsed": true
+    },
+    "5e77fb2e-a098-472e-9eec-e26711802950": {
+      "collapsed": true
+    }
+  },
+  "tool": "pistar.2.0.0a",
+  "istar": "2.0",
+  "saveDate": "Fri, 26 Mar 2021 11:48:11 GMT",
+  "diagram": {
+    "width": 2046,
+    "height": 1468,
+    "name": "Moodle - SD Diagram",
+    "customProperties": {
+      "Description": "Diagrama de Dependência Estratégica do sistema multiagente Moodle."
+    }
+  }
+}
