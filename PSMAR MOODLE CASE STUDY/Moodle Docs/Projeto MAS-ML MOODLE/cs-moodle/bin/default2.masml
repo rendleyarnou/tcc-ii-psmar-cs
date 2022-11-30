@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<masml:MasmlClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:masml="masml">
+  <ownedAgentRoleClass name="CompanheiroAgRole">
+    <ownedDuty xsi:type="masml:Duty" name="compararTurma"/>
+    <ownedRight xsi:type="masml:Right" name="exibirMensagemApoio"/>
+    <ownedRight xsi:type="masml:Right" name="exibirMensagemReforco"/>
+    <ownedBelief name="crencasAprendizagem.pl"/>
+  </ownedAgentRoleClass>
+  <ownedAgentRoleClass name="PedagogicoAgRole">
+    <ownedGoal xsi:type="masml:Goal" name="companharInterdisciplinaridadeAluno"/>
+    <ownedDuty xsi:type="masml:Duty" name="relacionarDisciplinas"/>
+    <ownedDuty xsi:type="masml:Duty" name="relacionarCursos"/>
+    <ownedRight xsi:type="masml:Right" name="sugerirDisciplinasRelacionadas"/>
+    <ownedRight xsi:type="masml:Right" name="sugerirCursosRelacionados"/>
+    <ownedRight xsi:type="masml:Right" name="informarAlunoDescricaoCursos"/>
+    <ownedRight xsi:type="masml:Right" name="informarAlunoDescricaoDisciplinas"/>
+    <ownedBelief name="crencasPedagogico.pl"/>
+  </ownedAgentRoleClass>
+  <ownedAgentRoleClass name="BuscadorAgRole">
+    <ownedGoal xsi:type="masml:Goal" name="relacionarPessoas"/>
+    <ownedGoal xsi:type="masml:Goal" name="relacionarDocumentos"/>
+    <ownedDuty xsi:type="masml:Duty" name="localizarPessoas"/>
+    <ownedDuty xsi:type="masml:Duty" name="buscarDocumentos"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDocumentosRelacionados"/>
+    <ownedRight xsi:type="masml:Right" name="exibirPessoasRelacionadas"/>
+    <ownedBelief name="crencasBuscador.pl"/>
+  </ownedAgentRoleClass>
+  <ownedAgentRoleClass name="FormadorAgRole">
+    <ownedGoal xsi:type="masml:Goal" name="formarGrupoPorAfinidade"/>
+    <ownedGoal xsi:type="masml:Goal" name="formarGruposPorPerfisArendizagem"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasDeFormacao"/>
+    <ownedRight xsi:type="masml:Right" name="criarGrupoPorAfinidade"/>
+    <ownedRight xsi:type="masml:Right" name="criarGrupoAfinidade"/>
+    <ownedRight xsi:type="masml:Right" name="integrarGrupoAfinidade"/>
+    <ownedRight xsi:type="masml:Right" name="integrarGrupoPerfil"/>
+    <ownedRight xsi:type="masml:Right" name="requisitaCoordenadorAcao"/>
+    <ownedBelief name="crencasFormaGrupos"/>
+  </ownedAgentRoleClass>
+  <ownedAgentRoleClass name="AjudanteAgRole">
+    <ownedRight xsi:type="masml:Right" name="exibirDicasForuns"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasParticipantes"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasCalendario"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasCalendarioNovoEvento"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasAtividadeRecenteTodosParticipantes"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasAtivarEdicao"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasConfiguracoes"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasDesignarFuncoes"/>
+    <ownedRight xsi:type="masml:Right" name="exibirDicasRelatorioDeNotas"/>
+  </ownedAgentRoleClass>
+  <ownedAgentRoleClass name="CoordenadorAgRole">
+    <ownedGoal xsi:type="masml:Goal" name="requisitarAcoesDosAgentes"/>
+    <ownedRight xsi:type="masml:Right" name="verificarAcaoDoAgente"/>
+    <ownedRight xsi:type="masml:Right" name="requisitaAcao"/>
+    <ownedBelief name="crencasCoordenador.pl"/>
+  </ownedAgentRoleClass>
+</masml:MasmlClassDiagram>
